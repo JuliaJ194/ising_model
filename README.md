@@ -1,1 +1,1 @@
-Symulacja Monte Carlo Modelu Isinga.
+Symulacja Monte Carlo Modelu Isinga napisana w pythonie.
