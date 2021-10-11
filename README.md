@@ -1,1 +1,1 @@
-# ising_model
+Symulacja Monte Carlo Modelu Isinga.
